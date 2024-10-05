@@ -14,9 +14,9 @@ paginate_path: /blog/page:num/
 
 # Social media links in footer
 twitter: "#"
-linkedin: "#"
+linkedin: "roeyfuchs"
 stackoverflow: "#"
-github: "#"
+github: "roeyfuchs"
 researchgate: "#"
 orcid: "#"
 quora: "#"
