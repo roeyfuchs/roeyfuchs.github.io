@@ -6,7 +6,8 @@ profile:
   image: profile.png
 published: true
 ---
-Hello! I’m Roey Fuchs, great to see you here! 👋  
+Hello! I’m **Roey Fuchs**, great to see you here! 👋  
+  
 I’m a software engineer at [Radware](https://www.radware.com/), specializing in backend development. With a deep passion for coding, I enjoy optimizing performance and making code run faster. 💻 I’m always curious and eager to learn, whether it’s through reading or diving into new technologies.  
 
 
