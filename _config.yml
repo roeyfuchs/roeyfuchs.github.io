@@ -3,7 +3,7 @@
 title: Roey Fuchs
 description: Software Engineer
 
-baseurl: "" #name of GitHub repository
+baseurl: "https://www.roey.dev" #name of GitHub repository
 url: "https://www.roey.dev" #custom url to be used instead of GitHub repository
 email: #
 
